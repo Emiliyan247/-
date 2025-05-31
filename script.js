@@ -21,7 +21,7 @@ const comments = [
     author: "Христо Ботев",
     quote: "„Тоз, който падне в бой за свобода, той не умира.“",
     interpretation: "Делата на смелите надживяват телата им. Ботев ни учи, че каузите остават, когато са водени със сърце и истина. Всяка борба за справедливост ни прави по-близки до свободата.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hristo_Botev.jpg"
+    image: "images/botev.jpg"
   },
   {
     author: "Васил Левски",
